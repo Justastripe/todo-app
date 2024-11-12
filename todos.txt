@@ -1,0 +1,6 @@
+jump
+ball out
+fall
+buy cards
+make soup
+jump around
