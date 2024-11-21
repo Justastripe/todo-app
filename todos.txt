@@ -1,5 +1,4 @@
-jump
-ball out
+jump highball out
 fall
 buy cards
 make soup
